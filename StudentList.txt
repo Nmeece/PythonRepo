@@ -1,0 +1,8 @@
+"Jim", "EE", 2.8, True
+"Cathy", "CS", 3.6, False
+"Sarah", "Bio", 2.7, False
+"Gregory", "CS", 4.0, False
+"Kyle", "Nursing", 3.1, False
+"Emily", "Mechanical Eng.", 3.2, True
+"John", "EE", 1.7, False
+"Henry", "Bio", 2.0, True
