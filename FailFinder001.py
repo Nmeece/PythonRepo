@@ -1,6 +1,6 @@
 from student import Student
-studentList = "C:/Users/nygel/PythonProjects/WorkRelated/StudentList.txt"
-
+#studentList = "C:/Users/nygel/PythonProjects/WorkRelated/StudentList.txt"
+studentList = "/home/nmeece/Repo/PythonRepo/StudentList.txt"
 def CheckFail(studentList, string_in_file):                         #Search for the given string in file and return lines containing that sring, along with line numbers
     
     line_number     = 0
